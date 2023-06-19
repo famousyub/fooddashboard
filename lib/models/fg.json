@@ -1,0 +1,13 @@
+{
+    "id": "string",
+    "code": "string",
+    "longitude": "string",
+    "latitude": "string",
+    "altitude": "string",
+    "speed_gps": 0,
+    "effective_speed": 0,
+    "engine_rpm": 0,
+    "engine_temperature": 0,
+    "fuel_level": 0,
+    "kilometrage": 0
+  }
